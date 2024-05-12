@@ -10,10 +10,10 @@ The basic steps are as follows:
    triggers a build.  The build creates left- and right-firmware
    files.
 
-3. One downloads the firmware, and then for left and right, one
-   double-clicks the "reset" button with a paperclip (between Detete,
-   Home, and End) and drops the appropriate firmware into the disk
-   drive that pops up on the desktop.
+3. Download the firmware, and then, for left and right with a USB
+   connection, one double-clicks the "reset" button (between Delete,
+   Home, and End) with a paperclip and drops the appropriate firmware
+   into the disk drive that pops up on the desktop.  It ejects itself.
 
 Holding the Mod-(4) key makes the LEDs display battery power (green,
 yellow, orange, red?), where green is fully charged.
